@@ -2,6 +2,8 @@ W-w-welcome!
 
 I'm VLTHellolin, a frontend developer & competitive programmer from China.
 
+Buy me a coffee ❤️ [Afdian](https://afdian.com/a/hellolin).
+
 ### Contact me
 
 [![X](https://img.shields.io/badge/-VLTHellolin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VLTHellolin)
