@@ -22,7 +22,7 @@ Buy me a coffee ❤️ [Afdian](https://afdian.com/a/hellolin).
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=white)
 ![CPlusPlus](https://img.shields.io/badge/-C%2B%2B-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
