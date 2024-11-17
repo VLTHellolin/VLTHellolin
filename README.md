@@ -8,8 +8,8 @@ Buy me a coffee ❤️ [Afdian](https://afdian.com/a/hellolin).
 
 [![X](https://img.shields.io/badge/-VLTHellolin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VLTHellolin)
 [![GitHub](https://img.shields.io/badge/-VLTHellolin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VLTHellolin)
-[![Zhihu](https://img.shields.io/badge/-Hellolin-0E88EB?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hellolin.cf)
-[![Steam](https://img.shields.io/badge/-%E6%B0%AF%E5%8C%96%E9%93%B6-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hellolin/)
+[![Zhihu](https://img.shields.io/badge/-hellolin-0E88EB?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hellolin.cf)
+[![Steam](https://img.shields.io/badge/-hellolin-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hellolin/)
 [![Discord](https://img.shields.io/badge/-%E6%B0%AF%E5%8C%96%E9%93%B6-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1060072430355370094)
 
 ### Nice things I code with
