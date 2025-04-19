@@ -1,6 +1,6 @@
 ## W-w-welcome! My Name is VLTHellolin 🐋
 
-A Frontend Developer, Competitive Programmer and UI/UX enthusiast from China.
+A Frontend Developer, Competitive Programmer, and UI/UX enthusiast from China.
 
 - 14 y.o. / He/Him / ENFP-T / ACG Lover
 - Mandarin Chinese (zh-CN) / English (en-US) / Japanese (ja-JP)
@@ -12,15 +12,14 @@ A Frontend Developer, Competitive Programmer and UI/UX enthusiast from China.
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-20232A?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FFFFFF" />
 </div>
 
 - **JS & TS** are my primary languages.
-- I use **React & Vue.js** as my primary helpers for web developing.
-- I could also write **C++ & Rust**, but I know little about them.
+- I use **React & Vue.js** as my primary helpers for web development.
+- I could also write **C++, Rust & Python**, but I know little about them.
 
 ### Working Environment
 
@@ -32,7 +31,7 @@ A Frontend Developer, Competitive Programmer and UI/UX enthusiast from China.
 </div>
 
 - I use **Windows 11 & Arch Linux** on my PC, and **Debian** on servers.
-- I use Xiaomi HyperOS 2 for my phone, which is based on **Android**.
+- I use HyperOS 2 for my phone, which is based on **Android**.
 
 ### SSH Public Key
 
