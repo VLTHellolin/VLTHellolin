@@ -2,7 +2,7 @@
 
 A Frontend Developer, Competitive Programmer, and UI/UX enthusiast from China.
 
-- 14 y.o. / He/Him / ENFP-T / ACG Lover
+- 15 y.o. / He/Him / ENFP-T / ACG Enthusiast
 - Mandarin Chinese (zh-CN) / English (en-US) / Japanese (ja-JP)
 - Personal website: [hellolin.top](https://hellolin.top)
 - [X](https://x.com/VLTHellolin) / [Telegram](https://t.me/VLTHellolin) / [Steam](https://steamcommunity.com/id/hellolin/) / [Mail](mailto:i@hellolin.top)
